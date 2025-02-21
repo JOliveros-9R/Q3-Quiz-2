@@ -1,0 +1,21 @@
+body {
+      background-color: orangered;
+}
+
+.container {
+	background-color: orange;
+	padding: 25px;
+	box-shadow: 10px 10px 30px;
+	border-radius: 15px;
+	margin: auto;
+	border: 5px solid yellow;
+	width: 700px;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+     width: 100px;
+}
